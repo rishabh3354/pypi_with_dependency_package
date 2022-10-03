@@ -1,2 +1,2 @@
 
-# RHL Kafka Management Tool
+# Kafka Management Tool
